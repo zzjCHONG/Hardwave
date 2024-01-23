@@ -1,0 +1,1362 @@
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\Test-zzj\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\Test-zzj\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\Test-zzj\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\WINFORM_Work 1-4\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\WINFORM_Work 1-5\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-8\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-8\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-9\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\1-10\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\1-11\WINFORM_Work 1-10\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\1-11\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-11\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-14\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-15\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\1-16\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-16\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\WINFORM_Work 1-17\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\WINFORM_Work 1-17-2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\WINFORM_Work 1-18\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+F:\WINFORM_Work 1-18-2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\ZZJ\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WINFORM_Work 1-19\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\dell\Desktop\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\1-22\WINFORM_Work 1-21\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Lift.Core.Tiny.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Hardware.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\Simscop.Spindisk.Crest.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+U:\1-22\WINFORM_Work 1-22\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

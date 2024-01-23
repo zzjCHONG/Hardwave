@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "yu9WmcohlAA1pOqydlGXexoHFyBXiT+c3olWyzBaW1aT49GwwCk1gdQiDQ28gw96UJwBIdIsuX6+MuR+K07xUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WINFORM_Work\\WinFormsApp1\\Hardwave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\lift.core.tiny\\1.0.0.2\\lift.core.tiny.1.0.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4.extensions\\4.9.0.20240103\\opencvsharp4.extensions.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\simscop.hardware\\1.0.3\\simscop.hardware.1.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\simscop.spindisk.crest\\1.0.1\\simscop.spindisk.crest.1.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://nas.simscop.com:60000/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
