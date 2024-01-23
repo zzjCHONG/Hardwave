@@ -271,6 +271,7 @@ namespace Simscop.API
             if (CurrentFrameforSaving == null || CurrentFrameforSaving.Cols == 0 || CurrentFrameforSaving.Rows == 0)
                 Debug.WriteLine("Get Frame Error.————————Save");
 
+            CurrentFrameforSaving=new Mat();
             if (!MatSave(CurrentFrameforSaving, path)) return false;
             Debug.WriteLine("***********************************************Save complete!");
 
