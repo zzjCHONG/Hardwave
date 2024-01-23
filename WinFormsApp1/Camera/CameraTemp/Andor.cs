@@ -4,6 +4,7 @@ using System.Collections;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.InteropServices;
+using System.Threading;
 
 namespace Simscop.API
 {
@@ -106,7 +107,12 @@ namespace Simscop.API
         /// <returns></returns>
         public bool InitializeCamera(int cameraId = 0)
         {
-            if (!AssertRet(AndorAPI.Open(cameraId, ref Hndl), assertConnect: false)) throw new Exception("OpenCamera Error");
+            if (!AssertRet(AndorAPI.Open(cameraId, ref Hndl), assertConnect: false))
+            {
+                Debug.WriteLine("OpenCamera Error");
+                return false;
+            }
+            
             if (!AssertRet(AndorAPI.GetInt(Hndl, "imageSizeBytes", ref ImageSizeBytes), assertConnect: false)) return false;
 
             //初始设置
@@ -247,7 +253,7 @@ namespace Simscop.API
             return true;
         }
 
-        private bool SetSpuriousNoiseFilter()
+        public bool SetSpuriousNoiseFilter()
         {
             bool isWritable = false;
             if (!AssertRet(AndorAPI.IsWritable(Hndl, "SpuriousNoiseFilter", ref isWritable))) return false;
@@ -271,7 +277,6 @@ namespace Simscop.API
             if (CurrentFrameforSaving == null || CurrentFrameforSaving.Cols == 0 || CurrentFrameforSaving.Rows == 0)
                 Debug.WriteLine("Get Frame Error.————————Save");
 
-            CurrentFrameforSaving=new Mat();
             if (!MatSave(CurrentFrameforSaving, path)) return false;
             Debug.WriteLine("***********************************************Save complete!");
 
@@ -322,7 +327,7 @@ namespace Simscop.API
 
         #region Capture
 
-        private const int QueueCount = 15;
+        private const int QueueCount = 20;
         private static int QueueIndex = 0;
         private const int ImageHeight = 2160;
         private const int ImageWidth = 2560;
@@ -363,7 +368,7 @@ namespace Simscop.API
         {
             System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
             matImg = null;
-            byte[]? imageBytes = new byte[ImageSizeBytes];
+            byte[] imageBytes = new byte[ImageSizeBytes];
             GCHandle handle = GCHandle.Alloc(imageBytes, GCHandleType.Pinned);
             try
             {
@@ -406,13 +411,14 @@ namespace Simscop.API
 
                 AndorAPI.QueueBuffer(Hndl, AlignedBuffers[QueueIndex % QueueCount], ImageSizeBytes);
                 QueueIndex++;
-                if (QueueIndex > 750) QueueIndex = 0;//Hack，清零
+                if (QueueIndex > 7500) QueueIndex = 0;//Hack，清零
 
                 //if (QueueIndex % ((QueueCount - 1) * 10) == 0)
                 //{
                 //    StopAcquisition();
                 //    StartAcquisition();
                 //}
+
 
                 return true;
             }
@@ -425,6 +431,7 @@ namespace Simscop.API
             {
                 imageBytes = null;
                 handle.Free();
+                
             }
         }
 
@@ -442,13 +449,12 @@ namespace Simscop.API
             AlignedBuffers = new byte[numberOfBuffers][];
             for (int i = 0; i < numberOfBuffers; i++)
             {
-                AcqBuffers[i] = new byte[ImageSizeBytes + 8];//Hack，7
+                AcqBuffers[i] = new byte[ImageSizeBytes + 7];//Hack，7
                 AlignedBuffers[i] = new byte[ImageSizeBytes + 7];
                 Buffer.BlockCopy(AcqBuffers[i % numberOfBuffers], 0, AlignedBuffers[i], 0, ImageSizeBytes + 7);
 
                 if (!AssertRet(AndorAPI.QueueBuffer(Hndl, AlignedBuffers[i], ImageSizeBytes))) return false;
             }
-
             Debug.WriteLine("##AcquisitionStart");
             AssertRet(AndorAPI.Command(Hndl, "AcquisitionStart"));
 
@@ -469,7 +475,7 @@ namespace Simscop.API
             if (!AssertRet(AndorAPI.Flush(Hndl))) return false;
 
             //AlignedBuffers = null;//新增数组的释放
-
+            Thread.Sleep(100);
             return true;
         }
 
