@@ -9,7 +9,6 @@
       "Hardwave/1.0.0": {
         "dependencies": {
           "OpenCvSharp4": "4.9.0.20240103",
-          "OpenCvSharp4.Extensions": "4.9.0.20240103",
           "OpenCvSharp4.runtime.win": "4.9.0.20240103",
           "Simscop.Hardware": "1.0.3",
           "Simscop.Spindisk.Crest": "1.0.1"
@@ -26,22 +25,6 @@
           }
         }
       },
-      "Microsoft.Win32.SystemEvents/7.0.0": {
-        "runtime": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
-            "rid": "win",
-            "assetType": "runtime",
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        }
-      },
       "OpenCvSharp4/4.9.0.20240103": {
         "dependencies": {
           "System.Memory": "4.5.5",
@@ -49,18 +32,6 @@
         },
         "runtime": {
           "lib/net6.0/OpenCvSharp.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "OpenCvSharp4.Extensions/4.9.0.20240103": {
-        "dependencies": {
-          "OpenCvSharp4": "4.9.0.20240103",
-          "System.Drawing.Common": "7.0.0"
-        },
-        "runtime": {
-          "lib/net6.0/OpenCvSharp.Extensions.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -167,25 +138,6 @@
           }
         }
       },
-      "System.Drawing.Common/7.0.0": {
-        "dependencies": {
-          "Microsoft.Win32.SystemEvents": "7.0.0"
-        },
-        "runtime": {
-          "lib/net6.0/System.Drawing.Common.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
-            "rid": "win",
-            "assetType": "runtime",
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        }
-      },
       "System.IO.Ports/8.0.0": {
         "dependencies": {
           "runtime.native.System.IO.Ports": "8.0.0"
@@ -228,26 +180,12 @@
       "path": "lift.core.tiny/1.0.0.2",
       "hashPath": "lift.core.tiny.1.0.0.2.nupkg.sha512"
     },
-    "Microsoft.Win32.SystemEvents/7.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
-      "path": "microsoft.win32.systemevents/7.0.0",
-      "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
-    },
     "OpenCvSharp4/4.9.0.20240103": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-+BJMqToSH3dl+5SUF2YaPI+1eY/o/aTtvCQsY3qgcE4YS8qvPNS7MObzzVy4avYrBmcEEFnCvNF+1VbFnQjU9w==",
       "path": "opencvsharp4/4.9.0.20240103",
       "hashPath": "opencvsharp4.4.9.0.20240103.nupkg.sha512"
-    },
-    "OpenCvSharp4.Extensions/4.9.0.20240103": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-zqFJuQPV36ttTMrN1kMGQdj8rDD+wMDtTU5fVGE8osSPEAyehru1ow3xTAmB04uiaKlbzl/gy2G9BnbT+OgMNA==",
-      "path": "opencvsharp4.extensions/4.9.0.20240103",
-      "hashPath": "opencvsharp4.extensions.4.9.0.20240103.nupkg.sha512"
     },
     "OpenCvSharp4.runtime.win/4.9.0.20240103": {
       "type": "package",
@@ -311,13 +249,6 @@
       "sha512": "sha512-3/wm6eXmwRtIKMkTh92uiWRzNHGPCDxIXmQ4paCDazfw7mXvWtL4ljZ0TuyAjfzpvqbyb0yxsEi+WzMMKDe5cg==",
       "path": "simscop.spindisk.crest/1.0.1",
       "hashPath": "simscop.spindisk.crest.1.0.1.nupkg.sha512"
-    },
-    "System.Drawing.Common/7.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
-      "path": "system.drawing.common/7.0.0",
-      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
     },
     "System.IO.Ports/8.0.0": {
       "type": "package",
