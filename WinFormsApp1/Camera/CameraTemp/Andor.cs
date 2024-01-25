@@ -409,9 +409,12 @@ namespace Simscop.API
                 matImg.MinMaxLoc(out double min, out double max);
                 Debug.WriteLine($"{min}-----{max}");
 
-                AndorAPI.QueueBuffer(Hndl, AlignedBuffers[QueueIndex % QueueCount], ImageSizeBytes);
-                QueueIndex++;
-                if (QueueIndex > 7500) QueueIndex = 0;//Hack，清零
+                //4-Re-queue the buffers
+                AndorAPI.QueueBuffer(Hndl, AlignedBuffers[CapQueIndex % QueueCount], ImageSizeBytes);
+
+                CapQueIndex++;
+                if (CapQueIndex > 7500) 
+                    CapQueIndex = 0;
 
                 //if (QueueIndex % ((QueueCount - 1) * 10) == 0)
                 //{
@@ -435,8 +438,8 @@ namespace Simscop.API
             }
         }
 
-        public bool AcquisitionStart() => AssertRet(AndorAPI.Command(Hndl, "AcquisitionStart"));
-        public bool AcquisitionStop()=> AssertRet(AndorAPI.Command(Hndl, "Acquisition Stop"));
+        public bool AcqStartCommand() => AssertRet(AndorAPI.Command(Hndl, "AcquisitionStart"));
+        public bool AcqStopCommand()=> AssertRet(AndorAPI.Command(Hndl, "Acquisition Stop"));
 
         /// <summary>
         /// 开始捕获
