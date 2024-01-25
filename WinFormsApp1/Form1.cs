@@ -4,6 +4,7 @@ using OpenCvSharp;
 using System.Diagnostics;
 using System.Threading;
 using System.Timers;
+using System.Windows.Forms;
 
 namespace WinFormsApp1
 {
@@ -180,8 +181,13 @@ namespace WinFormsApp1
                     m.WaitOne();
 
                     times++;
-                    if (!_andorCamera.Capture(out Mat? matImg)) return false;
                     Debug.WriteLine(times);
+
+                    if (times == 123)
+                    {
+
+                    }
+                    if (!_andorCamera.Capture(out Mat? matImg)) return false;
 
                     Thread.Sleep(10);
                 }
@@ -189,9 +195,6 @@ namespace WinFormsApp1
 
             ////Test3
             //_andorCamera.Capture(out Mat matImg);
-            //matImg.Normalize();
-            //matImg.MinMaxLoc(out double min, out double max);
-            //Debug.WriteLine($"{min}-----{max}");
         }
 
         private void Save_Click(object sender, EventArgs e)
@@ -213,22 +216,27 @@ namespace WinFormsApp1
         AndorImplemented andorImplemented = new AndorImplemented();
         private void Setting_Click(object sender, EventArgs e)
         {
-            andorImplemented.AcquisitionStop();
-            //_andorCamera.StopCapture();
 
             _andorCamera.GetExposure(out double ex);
 
             _andorCamera.SetExposure(Convert.ToInt32(textBox1.Text));
 
-            andorImplemented.AcquisitionStart();
-            //_andorCamera.StartCapture();
+        }
 
+        private void btnAcqStartCommand_Click(object sender, EventArgs e)
+        {
+            andorImplemented.AcqStartCommand();
+        }
 
+        private void btnStopCommand_Click(object sender, EventArgs e)
+        {
+            andorImplemented.AcqStopCommand();
         }
 
         private void btnEnumTest_Click(object sender, EventArgs e)
         {
-            
+            andorImplemented.GetEnumSetting();
+            andorImplemented.SetEnumSetting();
         }
     }
 }

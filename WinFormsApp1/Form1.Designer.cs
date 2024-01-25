@@ -51,6 +51,8 @@
             btnUnInitialize = new Button();
             textBox1 = new TextBox();
             btnEnumTest = new Button();
+            btnStopCommand = new Button();
+            btnAcqStartCommand = new Button();
             SuspendLayout();
             // 
             // btnLaser
@@ -176,7 +178,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(468, 133);
+            button1.Location = new Point(468, 106);
             button1.Name = "button1";
             button1.Size = new Size(127, 23);
             button1.TabIndex = 0;
@@ -190,7 +192,7 @@
             button6.Name = "button6";
             button6.Size = new Size(127, 23);
             button6.TabIndex = 0;
-            button6.Text = "Stop";
+            button6.Text = "StopCapture";
             button6.UseVisualStyleBackColor = true;
             button6.Click += StopCapture_Click;
             // 
@@ -200,13 +202,13 @@
             button7.Name = "button7";
             button7.Size = new Size(127, 23);
             button7.TabIndex = 0;
-            button7.Text = "Start";
+            button7.Text = "StartCapture";
             button7.UseVisualStyleBackColor = true;
             button7.Click += StartCapture_Click;
             // 
             // button8
             // 
-            button8.Location = new Point(468, 249);
+            button8.Location = new Point(623, 106);
             button8.Name = "button8";
             button8.Size = new Size(127, 23);
             button8.TabIndex = 0;
@@ -216,7 +218,7 @@
             // 
             // button9
             // 
-            button9.Location = new Point(468, 220);
+            button9.Location = new Point(623, 135);
             button9.Name = "button9";
             button9.Size = new Size(127, 23);
             button9.TabIndex = 0;
@@ -226,7 +228,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(626, 235);
+            button2.Location = new Point(623, 193);
             button2.Name = "button2";
             button2.Size = new Size(127, 23);
             button2.TabIndex = 0;
@@ -236,7 +238,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(626, 206);
+            button3.Location = new Point(623, 164);
             button3.Name = "button3";
             button3.Size = new Size(127, 23);
             button3.TabIndex = 0;
@@ -246,7 +248,7 @@
             // 
             // btnSetting
             // 
-            btnSetting.Location = new Point(468, 278);
+            btnSetting.Location = new Point(468, 220);
             btnSetting.Name = "btnSetting";
             btnSetting.Size = new Size(127, 36);
             btnSetting.TabIndex = 0;
@@ -256,7 +258,7 @@
             // 
             // btnUnInitialize
             // 
-            btnUnInitialize.Location = new Point(612, 133);
+            btnUnInitialize.Location = new Point(468, 135);
             btnUnInitialize.Name = "btnUnInitialize";
             btnUnInitialize.Size = new Size(127, 23);
             btnUnInitialize.TabIndex = 0;
@@ -266,7 +268,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(601, 285);
+            textBox1.Location = new Point(601, 227);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(60, 23);
@@ -275,13 +277,33 @@
             // 
             // btnEnumTest
             // 
-            btnEnumTest.Location = new Point(468, 343);
+            btnEnumTest.Location = new Point(661, 12);
             btnEnumTest.Name = "btnEnumTest";
             btnEnumTest.Size = new Size(127, 36);
             btnEnumTest.TabIndex = 0;
             btnEnumTest.Text = "EnumTest";
             btnEnumTest.UseVisualStyleBackColor = true;
             btnEnumTest.Click += btnEnumTest_Click;
+            // 
+            // btnStopCommand
+            // 
+            btnStopCommand.Location = new Point(506, 321);
+            btnStopCommand.Name = "btnStopCommand";
+            btnStopCommand.Size = new Size(127, 23);
+            btnStopCommand.TabIndex = 0;
+            btnStopCommand.Text = "StopCommand";
+            btnStopCommand.UseVisualStyleBackColor = true;
+            btnStopCommand.Click += btnStopCommand_Click;
+            // 
+            // btnAcqStartCommand
+            // 
+            btnAcqStartCommand.Location = new Point(506, 292);
+            btnAcqStartCommand.Name = "btnAcqStartCommand";
+            btnAcqStartCommand.Size = new Size(127, 23);
+            btnAcqStartCommand.TabIndex = 0;
+            btnAcqStartCommand.Text = "StartCommand";
+            btnAcqStartCommand.UseVisualStyleBackColor = true;
+            btnAcqStartCommand.Click += btnAcqStartCommand_Click;
             // 
             // Form1
             // 
@@ -298,6 +320,8 @@
             Controls.Add(btnConverBuffer);
             Controls.Add(btnEnumTest);
             Controls.Add(btnSetting);
+            Controls.Add(btnAcqStartCommand);
+            Controls.Add(btnStopCommand);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button9);
@@ -343,5 +367,7 @@
         private Button btnUnInitialize;
         private TextBox textBox1;
         private Button btnEnumTest;
+        private Button btnStopCommand;
+        private Button btnAcqStartCommand;
     }
 }
