@@ -5,6 +5,7 @@ using System.Diagnostics;
 using System.Threading;
 using System.Timers;
 using System.Windows.Forms;
+using System;
 
 namespace WinFormsApp1
 {
@@ -151,7 +152,6 @@ namespace WinFormsApp1
         {
             andorImplemented.UnInitializeCamera();
             andorImplemented.UninitializeSdk();
-
         }
 
         private void StartCapture_Click(object sender, EventArgs e)
@@ -168,28 +168,30 @@ namespace WinFormsApp1
         CancellationTokenSource tokensource = new CancellationTokenSource();
         private void Capture_Click(object sender, EventArgs e)
         {
+
             //Test2
-            int times = 0;
             CancellationToken cancellationToken = tokensource.Token;
             Task.Run(() =>
             {
                 while (true)
                 {
-                    if (cancellationToken.IsCancellationRequested)
-                        return false;
 
-                    m.WaitOne();
-
-                    times++;
-                    Debug.WriteLine(times);
-
-                    if (times == 123)
+                    try
                     {
+                        if (cancellationToken.IsCancellationRequested)
+                            return false;
+
+                        m.WaitOne();
+
+                        if (!_andorCamera.Capture(out Mat? matImg)) return false;
+
+                        Thread.Sleep(5);
 
                     }
-                    if (!_andorCamera.Capture(out Mat? matImg)) return false;
+                    catch (Exception)
+                    {
+                    }
 
-                    Thread.Sleep(10);
                 }
             });
 
@@ -235,8 +237,8 @@ namespace WinFormsApp1
 
         private void btnEnumTest_Click(object sender, EventArgs e)
         {
-            //andorImplemented.EnumSettingTest();
-            andorImplemented.LoopGetEnum();
+            andorImplemented.EnumSettingDemo();
+            //andorImplemented.LoopGetEnum();
         }
 
         private void btnSensorCooling_Click(object sender, EventArgs e)
