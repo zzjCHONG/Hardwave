@@ -479,17 +479,27 @@ namespace Simscop.API
 
     public enum CycleModeEnum
     {
-        //还有其他采集方式，待添加
+        Fixed,
         Continuous,
-        External,
     }
     public enum PixelEncodingEnum
     {
-        Mono12PACKED,
         Mono12,
+        Mono12Packed,
         Mono16,
-        Mono32,
+        RGB8Packed,
+        Mono12Coded,
+        Mono12CodedPacked,
+        Mono22Parallel,
+        Mono22PackedParallel,
         Mono8,
+        Mono32,
     }
-
+    public enum PixelReadoutRateEnum
+    {
+        TenMHz,
+        OneHundredMHz,
+        TwoHundredMHz,
+        TwoHundredandEightyMHz,
+    }
 }

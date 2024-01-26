@@ -53,6 +53,7 @@
             btnEnumTest = new Button();
             btnStopCommand = new Button();
             btnAcqStartCommand = new Button();
+            btnSensorCooling = new Button();
             SuspendLayout();
             // 
             // btnLaser
@@ -305,6 +306,16 @@
             btnAcqStartCommand.UseVisualStyleBackColor = true;
             btnAcqStartCommand.Click += btnAcqStartCommand_Click;
             // 
+            // btnSensorCooling
+            // 
+            btnSensorCooling.Location = new Point(506, 12);
+            btnSensorCooling.Name = "btnSensorCooling";
+            btnSensorCooling.Size = new Size(127, 36);
+            btnSensorCooling.TabIndex = 0;
+            btnSensorCooling.Text = "SensorCooling";
+            btnSensorCooling.UseVisualStyleBackColor = true;
+            btnSensorCooling.Click += btnSensorCooling_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
@@ -318,6 +329,7 @@
             Controls.Add(btnGetSerialNumber);
             Controls.Add(btnAcquisition);
             Controls.Add(btnConverBuffer);
+            Controls.Add(btnSensorCooling);
             Controls.Add(btnEnumTest);
             Controls.Add(btnSetting);
             Controls.Add(btnAcqStartCommand);
@@ -369,5 +381,6 @@
         private Button btnEnumTest;
         private Button btnStopCommand;
         private Button btnAcqStartCommand;
+        private Button btnSensorCooling;
     }
 }

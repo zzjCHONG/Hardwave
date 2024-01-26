@@ -56,25 +56,26 @@ namespace WinFormsApp1
 
         internal bool Connect(int cameraId = 0)
         {
-            if (AndorAPI.InitialiseLibrary() != (int)AndorErrorCodeEnum.AT_SUCCESS)
+            if (!AssertRet(AndorAPI.InitialiseLibrary(), false, false))
             {
                 Debug.WriteLine("InitialiseLibrary Error");
                 return false;
             }
             if (!AssertRet(AndorAPI.GetInt(1, "Device Count", ref NumberDevices), false, false)) return false;
-                
             Debug.WriteLine("InitializeSdk completed!");
 
+            System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
+            stopwatch.Start();
             if (!AssertRet(AndorAPI.Open(cameraId, ref Hndl), assertConnect: false))
             {
                 Debug.WriteLine("OpenCamera Error");
                 return false;
             }
-            
+            stopwatch.Stop();
+            Debug.WriteLine($"Open camera cost{stopwatch.ElapsedMilliseconds}ms");
             if (!AssertRet(AndorAPI.GetInt(Hndl, "imageSizeBytes", ref ImageSizeBytes), assertConnect: false)) return false;
-            
-            SetExposure(100);
 
+            SetExposure(100);//初始设置
 
             Debug.WriteLine("InitializeCamera completed!");
             return true;
@@ -112,13 +113,59 @@ namespace WinFormsApp1
 
         internal ImageArray? Capture()
         {
-            throw new NotImplementedException();
+            ImageArray? result = null;
+            return result;
         }
 
+        public Mat? CurrentFrameforSaving { get; set; }
         internal bool Save(string path, SaveImageArgs? args)
         {
-            throw new NotImplementedException();
+            if (args == null) return false;
+
+            if (CurrentFrameforSaving == null || CurrentFrameforSaving.Cols == 0 || CurrentFrameforSaving.Rows == 0)
+                Debug.WriteLine("Get Frame Error.————————Save");
+
+            var imageType=args.ImageType;
+            string imageFile = System.IO.Path.Combine(path, $"{DateTime.Now.ToString("yyyy-MM-dd-HH-mm-ss-fff")}.tif");
+            Cv2.ImWrite(imageFile, CurrentFrameforSaving);
+
+            Debug.WriteLine("Save completed!");
+            return true;
         }
+
+        private bool MatSave(Mat? matImg, string imageFilepath)
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(imageFilepath)) return false;
+                if (matImg == null) return false;
+
+                //旋转
+                Mat matImgRotate = new Mat(matImg.Height, matImg.Width, matImg.Type());
+                Cv2.Rotate(matImg, matImgRotate, RotateFlags.Rotate180);
+                Mat matImgFlip = new Mat(matImg.Height, matImg.Width, matImg.Type());
+                Cv2.Flip(matImgRotate, matImgFlip, FlipMode.Y);
+
+                //图像水平&垂直分辨率、压缩比
+                ImwriteFlags flags = ImwriteFlags.TiffCompression;
+                ImwriteFlags dpix = ImwriteFlags.TiffXDpi;
+                ImwriteFlags dpiy = ImwriteFlags.TiffYDpi;
+                ImageEncodingParam[] encodingParams = new ImageEncodingParam[] { new ImageEncodingParam(dpix, 96), new ImageEncodingParam(dpiy, 96), new ImageEncodingParam(flags, 1) };
+
+                //if (!Directory.Exists(imageFilepath)) Directory.CreateDirectory(imageFilepath);
+                string imageFile = System.IO.Path.Combine(imageFilepath, $"{DateTime.Now.ToString("yyyy-MM-dd-HH-mm-ss-fff")}.tif");
+                if (!Cv2.ImWrite(imageFile, matImgFlip, encodingParams)) return false;
+
+                Debug.WriteLine("MatImage save:" + imageFile);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine("MatImage save error:" + ex.Message);
+                return false;
+            }
+        }
+
 
         internal bool Record(string path, RecordArgs? args)
         {
@@ -453,7 +500,7 @@ namespace WinFormsApp1
                     case PixelEncodingEnum.Mono12:
                         matType = MatType.CV_16UC1;
                         break;
-                    case PixelEncodingEnum.Mono12PACKED:
+                    case PixelEncodingEnum.Mono12Packed:
                         matType = MatType.CV_16UC1;
                         break;
                     case PixelEncodingEnum.Mono16:
@@ -1260,32 +1307,6 @@ namespace WinFormsApp1
         }
 
         #endregion
-
-        /// <summary>
-        /// Ensure a low noise level in the images
-        /// </summary>
-        /// <returns></returns>
-        private bool SetsSensorCooling()
-        {
-            double temperature = 0;
-            AndorAPI.SetBool(Hndl, "SensorCooling", true);
-            int temperatureCount = 0;
-            AndorAPI.GetEnumCount(Hndl, "TemperatureControl", ref temperatureCount);
-            AndorAPI.SetEnumIndex(Hndl, "TemperatureControl", temperatureCount - 1);
-            int temperatureStatusIndex = 0;
-            StringBuilder temperatureStatus = new StringBuilder(256);
-            do
-            {
-                AndorAPI.GetEnumIndex(Hndl, "TemperatureStatus",ref temperatureStatusIndex);
-                AndorAPI.GetEnumStringByIndex(Hndl, "TemperatureStatus", temperatureStatusIndex,
-                temperatureStatus, 256);
-            }
-            while (string.Compare("Stabilised", temperatureStatus.ToString()) != 0);
-
-            return true;
-        }
-
-        
 
         #endregion
     }

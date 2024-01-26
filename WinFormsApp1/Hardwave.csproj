@@ -16,8 +16,4 @@
     <PackageReference Include="Simscop.Spindisk.Crest" Version="1.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Camera\C++\" />
-  </ItemGroup>
-
 </Project>

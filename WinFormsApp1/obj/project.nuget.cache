@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6CvTeJW5DTq2voVvSFxCO7dkgJu48SH5SE/Bqm5cG8Cbbo8B+RDoEGZxcWM3vzaLPTzgS+0WWyTNm+aSdfKtyw==",
+  "dgSpecHash": "e9mKN27HUc+scT0AG20JimLISRLDE1ZSA9o/M51V69KWAgDHEqu94+7DAuKqIV5vNVOLHimgx06epESkJueIGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WINFORM_Work\\WinFormsApp1\\Hardwave.csproj",
+  "projectFilePath": "H:\\1-25\\WINFORM_Work\\WinFormsApp1\\Hardwave.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\lift.core.tiny\\1.0.0.2\\lift.core.tiny.1.0.0.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",

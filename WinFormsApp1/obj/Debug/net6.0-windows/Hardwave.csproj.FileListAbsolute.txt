@@ -136,3 +136,14 @@ C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-window
 C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.pdb
 C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\ref\Hardwave.dll
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.csproj.AssemblyReference.cache
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.csproj.GenerateResource.cache
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.GeneratedMSBuildEditorConfig.editorconfig
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.AssemblyInfoInputs.cache
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.AssemblyInfo.cs
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.csproj.CoreCompileInputs.cache
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.sourcelink.json
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.dll
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\refint\Hardwave.dll
+H:\1-25\WINFORM_Work\WinFormsApp1\obj\Debug\net6.0-windows\Hardwave.pdb

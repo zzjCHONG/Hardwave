@@ -235,8 +235,13 @@ namespace WinFormsApp1
 
         private void btnEnumTest_Click(object sender, EventArgs e)
         {
-            andorImplemented.GetEnumSetting();
-            andorImplemented.SetEnumSetting();
+            //andorImplemented.EnumSettingTest();
+            andorImplemented.LoopGetEnum();
+        }
+
+        private void btnSensorCooling_Click(object sender, EventArgs e)
+        {
+            andorImplemented.SetsSensorCooling();
         }
     }
 }

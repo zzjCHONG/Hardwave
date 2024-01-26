@@ -1,0 +1,91 @@
+PixelReadoutRate
+10 MHz
+100 MHz
+200 MHz
+280 MHz
+
+PixelEncoding
+0-Mono12
+1-Mono12Packed
+2-Mono16
+3-RGB8Packed
+4-Mono12Coded
+5-Mono12CodedPacked
+6-Mono22Parallel
+7-Mono22PackedParallel
+8-Mono8
+9-Mono32
+
+ElectronicShutteringMode
+0-Rolling
+1-Global
+
+FanSpeed
+0-Off
+1-On
+
+PreAmpGainControl
+AT_ERR_NOTIMPLEMENTED
+
+SensorReadoutMode
+AT_ERR_NOTIMPLEMENTED
+
+TemperatureControl
+0-0.0
+
+TemperatureStatus
+0-Cooler Off
+1-Stabilised
+2-Cooling
+3-Drift
+4-Not Stabilised
+5-Fault
+
+ShutterOutputMode
+0-Closed
+1-Open
+2-Automatic
+
+SimplePreAmpGainControl
+0-12-bit (high well capacity)
+1-12-bit (low noise)
+2-16-bit (low noise & high well capacity)
+
+TriggerMode
+0-Internal
+1-External Level Transition
+2-External Start
+3-External Exposure
+4-Software
+5-Advanced
+6-External
+
+CycleMode
+0-Fixed
+1-Continuous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
