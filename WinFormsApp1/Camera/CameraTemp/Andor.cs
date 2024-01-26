@@ -122,7 +122,7 @@ namespace Simscop.API
             //初始设置
             SetSpuriousNoiseFilter();//消除噪声
             SetPixelEncoding(PixelEncodingEnum.Mono16);//图像格式
-            SetPixelReadoutRate(PixelReadoutRateEnum.TwoHundredMHz);//采样率，100稳定。放到SetCycleMode之后iswritable为false，无法正常设置为200
+            SetPixelReadoutRate(PixelReadoutRateEnum.TwoHundredandEightyMHz);//采样率
             SetCycleMode(CycleModeEnum.Continuous);//采集方式-连续触发
             SetExposure(50);//曝光
 
@@ -235,16 +235,17 @@ namespace Simscop.API
             bool isWritable = false;
             if (!AssertRet(AndorAPI.IsWritable(Hndl, "PixelReadoutRate", ref isWritable))) return false;
             if (isWritable)
-                //if (!AssertRet(AndorAPI.SetEnumeratedString(Hndl, "PixelReadoutRate", $"{pixelReadoutRate} MHz"))) return false;
+            {
+                bool isAvailable = false;
+                int AvailableIndex = (int)pixelReadoutRate;
+                if (!AssertRet(AndorAPI.IsEnumIndexAvailable(Hndl, "PixelReadoutRate", AvailableIndex, ref isAvailable))) return false;
+                if (!isAvailable)
+                {
+                    Debug.WriteLine("PixelReadoutRate set:current index is not available!");
+                    return false;
+                }
                 if (!AssertRet(AndorAPI.SetEnumIndex(Hndl, "PixelReadoutRate", (int)pixelReadoutRate))) return false;
-
-            //验证
-            int i_index = 0;
-            if (!AssertRet(AndorAPI.GetEnumerated(Hndl, "PixelReadoutRate", ref i_index)))return false;
-            StringBuilder stringBuilder = new StringBuilder(64);
-            if (!AssertRet(AndorAPI.GetEnumStringByIndex(Hndl, "PixelReadoutRate", i_index, stringBuilder, 64))) return false;
-            Debug.WriteLine($"Set PixelReadoutRate {stringBuilder.ToString()}");
-
+            }
             //AcqStartCommand();
             return true;
         }
@@ -376,6 +377,7 @@ namespace Simscop.API
                 recode = AndorAPI.GetEnumIndex(Hndl, "TemperatureStatus", ref temperatureStatusIndex);
                 recode = AndorAPI.GetEnumStringByIndex(Hndl, "TemperatureStatus", temperatureStatusIndex,
                 temperatureStatus, 256);
+                if (temperatureStatus.ToString() == "Cooler Off") return false;
                 Debug.WriteLine($"{times}---{temperatureStatus}");
                 Thread.Sleep(2000);
             }
@@ -454,7 +456,7 @@ namespace Simscop.API
         private static int CapQueIndex = 0;
         private const int ImageHeight = 2160;
         private const int ImageWidth = 2560;
-        public static byte[][] AlignedBuffers;
+        public static byte[]?[] AlignedBuffers;
         private static IntPtr GlobalFramePtr = IntPtr.Zero;
         private int times = 0;
 
@@ -467,10 +469,11 @@ namespace Simscop.API
         {
             matImg = new Mat();
             Debug.WriteLine("##Cupture");
-            Debug.WriteLine(times);
             times++;
+            Debug.WriteLine(times);
+
             //获取图像
-            if (!GetCircularFrame(out matImg, interval: 10000)) return false;
+            if (!GetCircularFrame(out matImg, interval: 2000)) return false;
 
             matImg.MinMaxLoc(out double min, out double max);
             if (matImg == null || min == 0 || max == 0)
@@ -508,7 +511,14 @@ namespace Simscop.API
                 int bufferSize = 0;
                 System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
                 stopwatch.Start();
-                AndorAPI.WaitBuffer(Hndl, ref GlobalFramePtr, ref bufferSize, interval);
+                //if (!AssertRet(AndorAPI.WaitBuffer(Hndl, ref GlobalFramePtr, ref bufferSize, interval))) return false;
+                if (!AssertRet(AndorAPI.WaitBuffer(Hndl, ref GlobalFramePtr, ref bufferSize, interval)))
+                {
+                    Debug.WriteLine("Camera recontect...");
+                    AcqStopCommand();
+                    AcqStartCommand();
+                    return false;
+                }
                 stopwatch.Stop();
                 Debug.WriteLine($"WaitBuffer cost time:{stopwatch.ElapsedMilliseconds}ms");
 
@@ -547,9 +557,9 @@ namespace Simscop.API
                 {
                     Debug.WriteLine("AlignedBuffers is null");
                     return false;
-                }               
-                   
-                AndorAPI.QueueBuffer(Hndl, AlignedBuffers[CapQueIndex % QueueCount], ImageSizeBytes);
+                }
+
+                if (!AssertRet(AndorAPI.QueueBuffer(Hndl, AlignedBuffers[CapQueIndex % QueueCount], ImageSizeBytes))) return false;
 
                 CapQueIndex++;
                 if (CapQueIndex > 750)
@@ -607,6 +617,10 @@ namespace Simscop.API
             Debug.WriteLine("##Flush");
             if (!AssertRet(AndorAPI.Flush(Hndl))) return false;
 
+            //for (int i = 0; i < AlignedBuffers.Length; i++)
+            //{
+            //    AlignedBuffers[i] = null;
+            //}
             AlignedBuffers = null;
             return true;
         }
