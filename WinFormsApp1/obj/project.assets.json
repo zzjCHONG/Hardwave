@@ -477,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\1-25\\WINFORM_Work\\WinFormsApp1\\Hardwave.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Hardwave\\WinFormsApp1\\Hardwave.csproj",
       "projectName": "Hardwave",
-      "projectPath": "U:\\1-25\\WINFORM_Work\\WinFormsApp1\\Hardwave.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Hardwave\\WinFormsApp1\\Hardwave.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "U:\\1-25\\WINFORM_Work\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Hardwave\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

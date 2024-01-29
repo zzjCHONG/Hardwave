@@ -278,7 +278,6 @@ namespace Simscop.API
             if (isWritable)
                 if (!AssertRet(AndorAPI.SetBool(Hndl, "SpuriousNoiseFilter", true))) return false;
             //AcqStopCommand();
-
             return true;
         }
 
@@ -478,7 +477,7 @@ namespace Simscop.API
             matImg.MinMaxLoc(out double min, out double max);
             if (matImg == null || min == 0 || max == 0)
             {
-                Debug.WriteLine($"matImg is null.min {min} - max {max}");
+                Debug.WriteLine($"MatImg is null.min {min} - max {max}");
                 return false;
             }
 
