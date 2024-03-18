@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hardwave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+320fd2f097873470f82aeba3f675675aab18fdf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b2fa6e8d6ae0ed63bfd52a0fdf8872dd71ef41")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hardwave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hardwave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
