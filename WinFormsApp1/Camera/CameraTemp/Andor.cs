@@ -1,11 +1,9 @@
 ﻿using OpenCvSharp;
-using OpenCvSharp.Flann;
 using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
-using System.Windows.Forms;
 
 namespace Simscop.API
 {
@@ -13,6 +11,9 @@ namespace Simscop.API
     public class Andor : ICamera
     {
         AndorImplemented _andor = new AndorImplemented();
+
+        public string GetConnectState() => _andor.ConnectState;
+
         public bool Capture(out Mat mat) => _andor.Capture(out mat);
 
         public bool GetExposure(out double exposure) => _andor.GetExpose(out exposure);
@@ -38,6 +39,7 @@ namespace Simscop.API
 
     class AndorImplemented
     {
+        internal string ConnectState = string.Empty;
         private static int Hndl = 0;
         private static int NumberDevices = 0;
         private static int ImageSizeBytes;
@@ -53,24 +55,27 @@ namespace Simscop.API
             msg = Enum.IsDefined(typeof(AndorErrorCodeEnum), ret) ? (AndorErrorCodeEnum)ret : AndorErrorCodeEnum.NO_DEFINE;
             if (ret != (int)AndorErrorCodeEnum.AT_SUCCESS)
             {
-                Debug.WriteLine($"[ERROR] [{st?.GetFrame(1)?.GetMethod()?.Name}] {ret}-{msg}");
+                ConnectState = $"{ret}-{msg}";
+                Debug.WriteLine($"[ERROR] [{st?.GetFrame(1)?.GetMethod()?.Name}]{ConnectState}");
                 return false;
             }
-
-            Debug.WriteLine($"[INFO] [{st?.GetFrame(1)?.GetMethod()?.Name}] {ret}-{msg}");
             return true;
         }
+
         private bool IsInitialized()
         {
             if (NumberDevices != 0) return true;
-            Debug.WriteLine("No camera found");
+            ConnectState = "No camera found";
+            Debug.WriteLine(ConnectState);
             return false;
         }
+
         private bool IsConnected()
         {
             if (Hndl == 0 || ImageSizeBytes == 0)
             {
-                Debug.WriteLine("No camera connected");
+                ConnectState = "No camera connected";
+                Debug.WriteLine(ConnectState);
                 return false;
             }
             return true;
@@ -90,7 +95,8 @@ namespace Simscop.API
                 return false;
             }
             if (!AssertRet(AndorAPI.GetInt(1, "Device Count", ref NumberDevices), false, false)) return false;
-            Debug.WriteLine("InitializeSdk completed!");
+            ConnectState = "InitializeSdk completed!";
+            Debug.WriteLine(ConnectState);
             return true;
         }
 
@@ -108,6 +114,8 @@ namespace Simscop.API
         /// <returns></returns>
         public bool InitializeCamera(int cameraId = 0)
         {
+            if (Hndl > 0) return true;//已经成功获得相机句柄
+
             System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
             stopwatch.Start();
             if (!AssertRet(AndorAPI.Open(cameraId, ref Hndl), assertConnect: false))
@@ -116,17 +124,18 @@ namespace Simscop.API
                 return false;
             }
             stopwatch.Stop();
-            Debug.WriteLine($"Open camera cost{stopwatch.ElapsedMilliseconds}ms");
+            Debug.WriteLine($"Open camera cost {stopwatch.ElapsedMilliseconds}ms");
             if (!AssertRet(AndorAPI.GetInt(Hndl, "imageSizeBytes", ref ImageSizeBytes), assertConnect: false)) return false;
 
             //初始设置
             SetSpuriousNoiseFilter();//消除噪声
             SetPixelEncoding(PixelEncodingEnum.Mono16);//图像格式
-            SetPixelReadoutRate(PixelReadoutRateEnum.TwoHundredandEightyMHz);//采样率
+            SetPixelReadoutRate(PixelReadoutRateEnum.OneHundredMHz);//采样率
             SetCycleMode(CycleModeEnum.Continuous);//采集方式-连续触发
             SetExposure(50);//曝光
 
-            Debug.WriteLine("InitializeCamera completed!");
+            ConnectState = "Initialize camera completed!";
+            Debug.WriteLine(ConnectState);
             return true;
         }
 
@@ -141,7 +150,7 @@ namespace Simscop.API
         #region Setting
 
         private const double MaxExposure = 30;
-        private const double MinExposure = 1.0 / 1000 / 10;//0.0001
+        private const double MinExposure = 1.0 / 1000 / 10;//0.0001.unit,S
 
         /// <summary>
         /// 获取曝光值
@@ -155,8 +164,6 @@ namespace Simscop.API
             if (!AssertRet(AndorAPI.IsReadable(Hndl, "ExposureTime", ref isReadable))) return false;
             if (isReadable)
                 if (!AssertRet(AndorAPI.GetFloat(Hndl, "ExposureTime", ref exposure))) return false;
-            Debug.WriteLine($"++++++++++++++++++++++++++++ExposureTime-         GetExpose{exposure}");
-
             return true;
         }
 
@@ -184,26 +191,15 @@ namespace Simscop.API
         {
             AcqStopCommand();
             exposure = exposure / 1000.0;
-
             exposure = exposure > MaxExposure ? MaxExposure : exposure;
             exposure = exposure < MinExposure ? MinExposure : exposure;
 
-            bool isWritable = false;
-            if (!AssertRet(AndorAPI.IsWritable(Hndl, "ExposureTime", ref isWritable))) return false;
-            if (isWritable)
-                if (!AssertRet(AndorAPI.SetFloat(Hndl, "ExposureTime", exposure))) return false;
-            Debug.WriteLine($"++++++++++++++++++++++++++++ExposureTime-            now{exposure}");
-
+            if (!AssertRet(AndorAPI.SetFloat(Hndl, "ExposureTime", exposure))) return false;
             double max = 0;
             if (!AssertRet(AndorAPI.GetFloatMax(Hndl, "FrameRate", ref max))) return false;
-            Debug.WriteLine($"++++++++++++++++++++++++++++FrameRate--         max{max}");
-
             if (!AssertRet(AndorAPI.SetFloat(Hndl, "FrameRate", max))) return false;
-            Debug.WriteLine($"++++++++++++++++++++++++++++FrameRate--       Set  max{max}");
 
             AcqStartCommand();
-
-            Debug.WriteLine("#SetExposure Compelted!");
             return true;
         }
 
@@ -215,10 +211,7 @@ namespace Simscop.API
         private bool SetPixelEncoding(PixelEncodingEnum pixelEncoding)
         {
             //AcqStopCommand();
-            bool isWritable = false;
-            if (!AssertRet(AndorAPI.IsWritable(Hndl, "PixelEncoding", ref isWritable))) return false;
-            if (isWritable)
-                if (!AssertRet(AndorAPI.SetEnumString(Hndl, "PixelEncoding", pixelEncoding.ToString()))) return false;
+            if (!AssertRet(AndorAPI.SetEnumString(Hndl, "PixelEncoding", pixelEncoding.ToString()))) return false;
             if (!AssertRet(AndorAPI.GetInt(Hndl, "imageSizeBytes", ref ImageSizeBytes))) return false;
             //AcqStartCommand();
             return true;
@@ -232,20 +225,7 @@ namespace Simscop.API
         private bool SetPixelReadoutRate(PixelReadoutRateEnum pixelReadoutRate)
         {
             //AcqStopCommand();
-            bool isWritable = false;
-            if (!AssertRet(AndorAPI.IsWritable(Hndl, "PixelReadoutRate", ref isWritable))) return false;
-            if (isWritable)
-            {
-                bool isAvailable = false;
-                int AvailableIndex = (int)pixelReadoutRate;
-                if (!AssertRet(AndorAPI.IsEnumIndexAvailable(Hndl, "PixelReadoutRate", AvailableIndex, ref isAvailable))) return false;
-                if (!isAvailable)
-                {
-                    Debug.WriteLine("PixelReadoutRate set:current index is not available!");
-                    return false;
-                }
-                if (!AssertRet(AndorAPI.SetEnumIndex(Hndl, "PixelReadoutRate", (int)pixelReadoutRate))) return false;
-            }
+            if (!AssertRet(AndorAPI.SetEnumIndex(Hndl, "PixelReadoutRate", (int)pixelReadoutRate))) return false;
             //AcqStartCommand();
             return true;
         }
@@ -258,11 +238,22 @@ namespace Simscop.API
         private bool SetCycleMode(CycleModeEnum cycleMode)
         {
             //AcqStartCommand();
-            bool isWritable = false;
-            if (!AssertRet(AndorAPI.IsWritable(Hndl, "CycleMode", ref isWritable))) return false;
-            if (isWritable)
-                if (!AssertRet(AndorAPI.SetEnumString(Hndl, "CycleMode", cycleMode.ToString()))) return false;
+            if (!AssertRet(AndorAPI.SetEnumString(Hndl, "CycleMode", cycleMode.ToString()))) return false;
             //AcqStopCommand();
+            return true;
+        }
+
+        /// <summary>
+        /// 设置灵敏度与动态范围 
+        /// Sensitivity/Dynamic Range；追求高动态范围请选 16-bit/追求采集速度请选 12-bit
+        /// </summary>
+        /// <param name="simplePreAmpGainControl"></param>
+        /// <returns></returns>
+        private bool SetSimplePreAmpGainControl(SimplePreAmpGainControlEnum simplePreAmpGainControl)
+        {
+            //AcqStopCommand();
+            if (!AssertRet(AndorAPI.SetEnumIndex(Hndl, "SimplePreAmpGainControl", (int)simplePreAmpGainControl))) return false;
+            //AcqStartCommand();
             return true;
         }
 
@@ -273,14 +264,12 @@ namespace Simscop.API
         private bool SetSpuriousNoiseFilter()
         {
             //AcqStartCommand();
-            bool isWritable = false;
-            if (!AssertRet(AndorAPI.IsWritable(Hndl, "SpuriousNoiseFilter", ref isWritable))) return false;
-            if (isWritable)
-                if (!AssertRet(AndorAPI.SetBool(Hndl, "SpuriousNoiseFilter", true))) return false;
+            if (!AssertRet(AndorAPI.SetBool(Hndl, "SpuriousNoiseFilter", true))) return false;
             //AcqStopCommand();
             return true;
         }
 
+        #region Setting Test
         /// <summary>
         /// EnumTest
         /// </summary>
@@ -351,7 +340,6 @@ namespace Simscop.API
                 Debug.WriteLine($"{i}-{szValue.ToString()}");
                 //Debug.WriteLine(szValuebyIndex.ToString());
             }
-
             return true;
         }
 
@@ -383,6 +371,7 @@ namespace Simscop.API
             while (string.Compare("Stabilised", temperatureStatus.ToString()) != 0);
             return true;
         }
+        #endregion  
 
         #endregion
 
@@ -395,13 +384,10 @@ namespace Simscop.API
         /// <returns></returns>
         public bool SaveSingleFrame(string path)
         {
-            Debug.WriteLine("##Save");
-
             if (CurrentFrameforSaving == null || CurrentFrameforSaving.Cols == 0 || CurrentFrameforSaving.Rows == 0)
                 Debug.WriteLine("Get Frame Error.————————Save");
 
             if (!MatSave(CurrentFrameforSaving, path)) return false;
-            Debug.WriteLine("Save completed!");
 
             return true;
         }
@@ -467,26 +453,15 @@ namespace Simscop.API
         public bool Capture(out Mat matImg)
         {
             matImg = new Mat();
-            Debug.WriteLine("##Cupture");
-            times++;
-            Debug.WriteLine(times);
-
-            //获取图像
             if (!GetCircularFrame(out matImg, interval: 2000)) return false;
-
             matImg.MinMaxLoc(out double min, out double max);
             if (matImg == null || min == 0 || max == 0)
             {
-                Debug.WriteLine($"MatImg is null.min {min} - max {max}");
+                Debug.WriteLine($"matImg is null.min {min} - max {max}");
                 return false;
             }
-
             CurrentFrameforSaving?.Dispose();
             CurrentFrameforSaving = matImg;
-
-            Debug.WriteLine("##Cupture completed!");
-            Debug.WriteLine("-----------------------------------------------");
-
             return true;
         }
 
@@ -508,18 +483,17 @@ namespace Simscop.API
                 GlobalFramePtr = new IntPtr(imageBytes.Length);
                 GlobalFramePtr = handle.AddrOfPinnedObject();
                 int bufferSize = 0;
-                System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
-                stopwatch.Start();
-                //if (!AssertRet(AndorAPI.WaitBuffer(Hndl, ref GlobalFramePtr, ref bufferSize, interval))) return false;
-                if (!AssertRet(AndorAPI.WaitBuffer(Hndl, ref GlobalFramePtr, ref bufferSize, interval)))
+                //System.Diagnostics.Stopwatch stopwatch = new System.Diagnostics.Stopwatch();
+                //stopwatch.Start();
+                if (!AssertRet(AndorAPI.WaitBuffer(Hndl, ref GlobalFramePtr, ref bufferSize, interval)))//断联，超时，连续多次触发
                 {
                     Debug.WriteLine("Camera recontect...");
                     AcqStopCommand();
                     AcqStartCommand();
                     return false;
                 }
-                stopwatch.Stop();
-                Debug.WriteLine($"WaitBuffer cost time:{stopwatch.ElapsedMilliseconds}ms");
+                //stopwatch.Stop();
+                //Debug.WriteLine($"WaitBuffer cost time:{stopwatch.ElapsedMilliseconds}ms");
 
                 //2-转换Mat
                 MatType matType = new MatType();
@@ -547,9 +521,6 @@ namespace Simscop.API
                 matImg = new Mat(ImageHeight, ImageWidth, matType);
                 Marshal.Copy(GlobalFramePtr, imageBytes, 0, imageBytes.Length);
                 Marshal.Copy(imageBytes, 0, matImg.Data, imageBytes.Length);
-
-                matImg.MinMaxLoc(out double min, out double max);
-                Debug.WriteLine($"{min}-----{max}");
 
                 //4-Re-queue the buffers
                 if (AlignedBuffers == null)
@@ -596,9 +567,7 @@ namespace Simscop.API
 
                 if (!AssertRet(AndorAPI.QueueBuffer(Hndl, AlignedBuffers[i], ImageSizeBytes))) return false;
             }
-            Debug.WriteLine("##StartAcquisition");
             AcqStartCommand();
-
             AcqBuffers = null;
             return true;
         }
@@ -610,18 +579,25 @@ namespace Simscop.API
         /// <returns></returns>
         public bool StopAcquisition()
         {
-            Debug.WriteLine("##StopAcquisition");
-            AcqStopCommand();
-
-            Debug.WriteLine("##Flush");
-            if (!AssertRet(AndorAPI.Flush(Hndl))) return false;
-
-            //for (int i = 0; i < AlignedBuffers.Length; i++)
-            //{
-            //    AlignedBuffers[i] = null;
-            //}
-            AlignedBuffers = null;
-            return true;
+            try
+            {
+                if (!AcqStopCommand())
+                {
+                    Debug.WriteLine("StopAcquisition failed. ");
+                    return false;
+                }                   
+                if (!AssertRet(AndorAPI.Flush(Hndl))) return false;
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+            finally
+            {
+                AlignedBuffers = null;
+                
+            }
         }
 
         /// <summary>

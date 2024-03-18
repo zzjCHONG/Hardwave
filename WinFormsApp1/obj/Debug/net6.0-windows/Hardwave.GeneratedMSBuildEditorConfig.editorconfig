@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hardwave
-build_property.ProjectDir = C:\Users\Administrator\Desktop\Hardwave\WinFormsApp1\
+build_property.ProjectDir = C:\Users\Administrator\Desktop\备份\Hardwave\WinFormsApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

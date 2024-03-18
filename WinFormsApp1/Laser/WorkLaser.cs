@@ -2,7 +2,7 @@
 using Simscop.Hardware.Common;
 using Simscop.Hardware.Laser;
 
-namespace WinFormsApp1
+namespace Hardwave.Laser
 {
     internal class WorkLaser : ILaser
     {
@@ -134,7 +134,7 @@ namespace WinFormsApp1
         /// <exception cref="NotImplementedException"></exception>
         public bool AsyncStatus()
         {
-            return laserModule.AsyncLaserStatus(Channels);
+            return laserModule.AsyncStatus(Channels);
         }
 
         /// <summary>

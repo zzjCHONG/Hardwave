@@ -1,16 +1,21 @@
 ﻿using System.Diagnostics;
 using System.IO.Ports;
 
-namespace WinFormsApp1
+namespace Hardwave.Laser
 {
     public class LaserModule
     {
+        /// <summary>
+        /// 连接状态
+        /// </summary>
+       public string _connectState = string.Empty;
+
         /// <summary>
         /// 端口名
         /// </summary>
         public string? _portName;
 
-        private SerialPort? serialPort = new()
+        private SerialPort? _serialPort = new()
         {
             BaudRate = 115200,
             StopBits = StopBits.One,
@@ -26,9 +31,19 @@ namespace WinFormsApp1
         {
             try
             {
-                if (!serialPort.IsOpen)
+                if (Valid())
                 {
-                    serialPort.Open();
+                    if (_serialPort != null)
+                        _serialPort.PortName = _portName;
+                }
+                else
+                {
+                    _connectState = "No available laser serial port found";
+                    return false;
+                }
+                if (_serialPort != null && !_serialPort.IsOpen)
+                {
+                    _serialPort.Open();
                     return true;
                 }
                 else
@@ -39,7 +54,8 @@ namespace WinFormsApp1
             }
             catch (Exception ex)
             {
-                Debug.WriteLine($"Connect failed:"+ex.Message);
+                _connectState = $"Failed to connect to port {_portName}";
+                Console.WriteLine($"{_connectState}:{ex.Message}");
                 return false;
             }
         }
@@ -52,11 +68,16 @@ namespace WinFormsApp1
         {
             try
             {
-                if (serialPort.PortName == string.Empty)
-                    serialPort.PortName = _portName;
-                if (serialPort.IsOpen)
-                    serialPort.Close();
-                    return serialPort.IsOpen==false;
+                if (_serialPort == null)
+                    return false;
+
+                if (_serialPort.PortName == string.Empty)
+                    _serialPort.PortName = _portName;
+
+                if (_serialPort.IsOpen)
+                    _serialPort.Close();
+
+                return _serialPort.IsOpen == false;
             }
             catch (Exception ex)
             {
@@ -78,26 +99,29 @@ namespace WinFormsApp1
             string comNum = string.Empty;
             try
             {
+                if(_serialPort == null) 
+                    return false;
+
                 //只校验串口是否存在且可用，不考虑是否实际操作
                 string[] portNames = SerialPort.GetPortNames();
                 foreach (string portName in portNames)
                 {
                     comNum = portName;
-                    serialPort.Close();
-                    serialPort.PortName = portName;
-                    serialPort.Open();
-                    serialPort.Write("PN?#");
-                    string rtn = serialPort.ReadExisting();
+                    _serialPort.Close();
+                    _serialPort.PortName = portName;
+                    _serialPort.Open();
+                    _serialPort.Write("PN?#");
+                    string rtn = _serialPort.ReadExisting();
                     string value = CheckContent(rtn);
                     if (value == "")
                     {
-                        serialPort.Close();
+                        _serialPort.Close();
                         continue;
                     }
                     if (value.Substring(0, 2) == "PN")//校验，【查询备注】
                     {
                         Debug.WriteLine($"Connected to {value} on port: {portName}");
-                        serialPort.Close();
+                        _serialPort.Close();
                         _portName = portName;
                         break;
                     }
@@ -130,6 +154,7 @@ namespace WinFormsApp1
         {
             try
             {
+                if (_serialPort == null) return false;
                 int param = 0;
                 switch (channel.WaveLength)
                 {
@@ -148,8 +173,8 @@ namespace WinFormsApp1
                     default:
                         return false;
                 }
-                serialPort.Write($"RUN@{param}=0#");
-                string rtn = serialPort.ReadExisting();
+                _serialPort.Write($"RUN@{param}=0#");
+                string rtn = _serialPort.ReadExisting();
                 bool isSetSuccessd = CheckContent(rtn) == "SET RUN:OK!#";
                 channel.Enable = isSetSuccessd;
                 return isSetSuccessd;
@@ -170,6 +195,7 @@ namespace WinFormsApp1
         {
             try
             {
+                if (_serialPort == null) return false;
                 int param = 0;
                 switch (channel.WaveLength)
                 {
@@ -188,8 +214,8 @@ namespace WinFormsApp1
                     default:
                         return false;
                 }
-                serialPort.Write($"RUN@{param}=1#");
-                string rtn = serialPort.ReadExisting();
+                _serialPort.Write($"RUN@{param}=1#");
+                string rtn = _serialPort.ReadExisting();
                 bool isSetSuccessd = CheckContent(rtn) == "SET RUN:OK!#";
                 channel.Enable = isSetSuccessd;
                 return isSetSuccessd;
@@ -211,6 +237,7 @@ namespace WinFormsApp1
         {
             try
             {
+                if (_serialPort == null) return false;
                 int param = 0;
                 switch (channel.WaveLength)
                 {
@@ -230,8 +257,8 @@ namespace WinFormsApp1
                         return false;
                 }
                 channel.Power = power;
-                serialPort.Write($"SET@{param}={power}#");
-                string rtn = serialPort.ReadExisting();
+                _serialPort.Write($"SET@{param}={power}#");
+                string rtn = _serialPort.ReadExisting();
                 var value = CheckContent(rtn);
                 return value == "OK!#";
             }
@@ -248,13 +275,14 @@ namespace WinFormsApp1
         /// </summary>
         /// <param name="channels"></param>
         /// <returns></returns>
-        public bool AsyncLaserStatus(List<Simscop.Hardware.Laser.Channel> channels)
+        public bool AsyncStatus(List<Simscop.Hardware.Laser.Channel> channels)
         {
             string rtn = string.Empty;
             try
             {
-                serialPort.Write("SET?#");
-                string value = CheckContent(serialPort.ReadExisting());
+                if (_serialPort == null) return false;
+                _serialPort.Write("SET?#");
+                string value = CheckContent(_serialPort.ReadExisting());
                 if (value==string.Empty)
                 {
                     Debug.WriteLine($"AsyncStatus Failed, rtnMsg is empty;");
